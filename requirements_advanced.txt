@@ -1,0 +1,9 @@
+streamlit
+pandas
+langchain
+openai
+faiss-cpu
+pinecone-client
+pdfplumber
+tiktoken
+numpy
