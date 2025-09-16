@@ -1,9 +1,9 @@
 streamlit
 pandas
+numpy
 langchain
 openai
 faiss-cpu
 pinecone-client
 pdfplumber
 tiktoken
-numpy
