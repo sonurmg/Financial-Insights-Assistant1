@@ -2,6 +2,7 @@ streamlit
 pandas
 numpy
 langchain
+langchain-community
 openai
 faiss-cpu
 pinecone-client
